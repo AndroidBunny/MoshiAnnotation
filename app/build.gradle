@@ -19,7 +19,7 @@ android {
         debug {
             versionNameSuffix 'debug'
         }
-        prodebug {
+        proDebug {
             debuggable true
             versionNameSuffix 'prodebug'
             minifyEnabled true
