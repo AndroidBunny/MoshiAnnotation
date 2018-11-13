@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHub Moshi</string>
+
+    <string name="item_id_label">Task</string>
+    <string name="item_description">%1$s is due on %2$s\nLocation: %3$s\nVersion: %4$d</string>
+
+    <string name="network_error_text">Something went wrong.</string>
+    <string name="list_empty_list">No data available</string>
+</resources>
